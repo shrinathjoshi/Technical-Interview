@@ -1,6 +1,8 @@
 import java.util.LinkedList;
 import java.util.Queue;
-
+/*
+Problem Statement:- https://leetcode.com/problems/implement-stack-using-queues/
+*/
 class MyOptimizedStack {
 
 	private LinkedList<Integer> queue;
