@@ -21,3 +21,5 @@
 7. [First Element to occur K Times](https://practice.geeksforgeeks.org/problems/first-element-to-occur-k-times/0)
 8. [Check Frequencies](https://practice.geeksforgeeks.org/problems/check-frequencies/0)
 
+####  Day 15
+1. [Candy Crush 1D](https://leetcode.com/discuss/interview-question/380650/bloomberg-phone-screen-candy-crush)
