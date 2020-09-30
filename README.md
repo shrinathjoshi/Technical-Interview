@@ -1,5 +1,18 @@
 # Interview-Preparation
 
+### Approach to solve a Problem
+1. Read the problem carefully
+2. Take a valid example and understand the problem 
+3. Come up with a brute force solution
+4. Optimize the solution
+5. Write PseudoCode/Logic of the optimized solution
+6. Explain it to your Interviewer
+7. Explain the space and Time complexity
+8. Code your solution in Java/ C++/ Python etc
+9. Handle boundary Cases
+10. Do a code walk through. Make code Modularize.
+
+
 #### Day 5 
 1. []()
 2. [Trapping Rain Water]()
