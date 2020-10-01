@@ -36,3 +36,5 @@
 
 ####  Day 15
 1. [Candy Crush 1D](https://leetcode.com/discuss/interview-question/380650/bloomberg-phone-screen-candy-crush)
+
+####  Day 39
