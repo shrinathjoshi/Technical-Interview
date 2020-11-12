@@ -13,6 +13,15 @@
 10. Do a code walk through. Make code Modularize.
 
 
+### Leetcode Important Discussion Link
+1. Backtracking
+https://leetcode.com/problems/permutations/discuss/18239/A-general-approach-to-backtracking-questions-in-Java-(Subsets-Permutations-Combination-Sum-Palindrome-Partioning)
+
+2.Binary Search
+
+
+
+
 #### Day 5 
 1. []()
 2. [Trapping Rain Water]()
