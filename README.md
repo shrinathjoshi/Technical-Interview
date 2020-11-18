@@ -15,7 +15,7 @@
 ### Leetcode Patterns :- 
 1. https://seanprashad.com/leetcode-patterns/
 2. https://leetcode.com/discuss/interview-question/448285/List-of-questions-sorted-by-common-patterns.
-
+3. https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
 
 ### Leetcode Important Discussion Link
 1. Backtracking
