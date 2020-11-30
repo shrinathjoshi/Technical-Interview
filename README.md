@@ -25,6 +25,7 @@ https://leetcode.com/problems/permutations/discuss/18239/A-general-approach-to-b
 
 3. Sliding Window 
 https://leetcode.com/problems/minimum-window-substring/discuss/26808/Here-is-a-10-line-template-that-can-solve-most-'substring'-problems
+https://leetcode.com/discuss/general-discussion/657507/sliding-window-for-beginners-problems-template-sample-solutions
 
 4. DFS and BFS 
 https://leetcode.com/discuss/general-discussion/937307/iterative-recursive-dfs-bfs-tree-traversal-inorder-preorder-postorder-levelorder
