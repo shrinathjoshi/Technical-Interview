@@ -48,6 +48,16 @@ https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patte
 9. Greedy 
 https://leetcode.com/discuss/general-discussion/669996/greedy-for-beginners-problems-sample-solutions
 
+10. Union find Algorithm
+
+https://leetcode.com/problems/number-of-islands/discuss/56354/1D-Union-Find-Java-solution-easily-generalized-to-other-problem
+https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/discuss/920955/C%2B%2B-or-DFS-Solution     
+https://leetcode.com/problems/friend-circles/
+https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/discuss/920955/C%2B%2B-or-DFS-Solution
+https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/
+https://www.hackerearth.com/practice/notes/disjoint-set-union-union-find/
+
+
 LEETCODE MOST IMP LINK 
 https://leetcode.com/discuss/general-discussion/665604/important-and-useful-links-from-all-over-the-leetcode
 
