@@ -60,6 +60,9 @@ https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/
 https://www.hackerearth.com/practice/notes/disjoint-set-union-union-find/
 
 
+11.Segment Trees
+https://leetcode.com/articles/a-recursive-approach-to-segment-trees-range-sum-queries-lazy-propagation/
+
 LEETCODE MOST IMP LINK 
 https://leetcode.com/discuss/general-discussion/665604/important-and-useful-links-from-all-over-the-leetcode
 
