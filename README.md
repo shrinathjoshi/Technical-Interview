@@ -36,6 +36,7 @@ https://leetcode.com/problems/prefix-and-suffix-search/discuss/320712/Different-
 
 6. Graph 
 https://leetcode.com/discuss/general-discussion/655708/graph-problems-for-beginners-practice-problems-and-sample-solutions
+https://leetcode.com/discuss/general-discussion/969327/graph-algorithms-one-place-dijkstra-bellman-ford-floyd-warshall-prims-kruskals-dsu
 
 
 7. How to solve DP - String? Template and 4 Steps to be followed.
