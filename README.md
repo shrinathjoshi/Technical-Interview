@@ -63,6 +63,11 @@ https://www.hackerearth.com/practice/notes/disjoint-set-union-union-find/
 11.Segment Trees
 https://leetcode.com/articles/a-recursive-approach-to-segment-trees-range-sum-queries-lazy-propagation/
 
+
+12. Backtracking
+https://leetcode.com/problems/subsets/discuss/27281/A-general-approach-to-backtracking-questions-in-Java-(Subsets-Permutations-Combination-Sum-Palindrome-Partitioning)
+
+
 LEETCODE MOST IMP LINK 
 https://leetcode.com/discuss/general-discussion/665604/important-and-useful-links-from-all-over-the-leetcode
 
