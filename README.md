@@ -67,6 +67,8 @@ https://leetcode.com/articles/a-recursive-approach-to-segment-trees-range-sum-qu
 12. Backtracking
 https://leetcode.com/problems/subsets/discuss/27281/A-general-approach-to-backtracking-questions-in-Java-(Subsets-Permutations-Combination-Sum-Palindrome-Partitioning)
 
+13. Resiover Sampling
+https://leetcode.com/problems/linked-list-random-node/discuss/957111/C%2B%2B-reservoir-sampling
 
 LEETCODE MOST IMP LINK 
 https://leetcode.com/discuss/general-discussion/665604/important-and-useful-links-from-all-over-the-leetcode
