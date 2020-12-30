@@ -72,6 +72,9 @@ https://leetcode.com/problems/subsets/discuss/27281/A-general-approach-to-backtr
 13. Resiover Sampling
 https://leetcode.com/problems/linked-list-random-node/discuss/957111/C%2B%2B-reservoir-sampling
 
+14. Bit Manipulation
+https://leetcode.com/problems/sum-of-two-integers/discuss/84278/A-summary%3A-how-to-use-bit-manipulation-to-solve-problems-easily-and-efficiently
+
 LEETCODE MOST IMP LINK 
 https://leetcode.com/discuss/general-discussion/665604/important-and-useful-links-from-all-over-the-leetcode
 
