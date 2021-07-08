@@ -75,6 +75,9 @@ https://leetcode.com/problems/linked-list-random-node/discuss/957111/C%2B%2B-res
 14. Bit Manipulation
 https://leetcode.com/problems/sum-of-two-integers/discuss/84278/A-summary%3A-how-to-use-bit-manipulation-to-solve-problems-easily-and-efficiently
 
+15. Binary Tree
+https://leetcode.com/discuss/study-guide/1212004/Binary-Trees-study-guide
+
 LEETCODE MOST IMP LINK 
 https://leetcode.com/discuss/general-discussion/665604/important-and-useful-links-from-all-over-the-leetcode
 
