@@ -82,6 +82,9 @@ LEETCODE MOST IMP LINK
 https://leetcode.com/discuss/general-discussion/665604/important-and-useful-links-from-all-over-the-leetcode
 
 
+Amazon Leadership Principles
+https://leetcode.com/discuss/study-guide/1149636/Amazon-LPs-Compiled
+
 #### Day 5 
 1. []()
 2. [Trapping Rain Water]()
