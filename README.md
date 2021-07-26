@@ -25,6 +25,7 @@ https://leetcode.com/problems/permutations/discuss/18239/A-general-approach-to-b
 
 2. Binary Search
 https://leetcode.com/problems/kth-missing-positive-number/discuss/779999/JavaC%2B%2BPython-O(logN)
+https://leetcode.com/discuss/study-guide/786126/Python-Powerful-Ultimate-Binary-Search-Template.-Solved-many-problems
 
 3. Sliding Window 
 https://leetcode.com/problems/minimum-window-substring/discuss/26808/Here-is-a-10-line-template-that-can-solve-most-'substring'-problems
@@ -40,14 +41,20 @@ https://leetcode.com/problems/prefix-and-suffix-search/discuss/320712/Different-
 https://leetcode.com/discuss/general-discussion/655708/graph-problems-for-beginners-practice-problems-and-sample-solutions
 https://leetcode.com/discuss/general-discussion/969327/graph-algorithms-one-place-dijkstra-bellman-ford-floyd-warshall-prims-kruskals-dsu
 https://leetcode.com/discuss/general-discussion/655708/Graph-For-Beginners-Problems-or-Pattern-or-Sample-Solutions
+https://leetcode.com/discuss/study-guide/655708/Graph-For-Beginners-Problems-or-Pattern-or-Sample-Solutions
 
 7. How to solve DP - String? Template and 4 Steps to be followed.
 https://leetcode.com/discuss/general-discussion/651719/how-to-solve-dp-string-template-and-4-steps-to-be-followed
 
-8. DP for beginners
+8. Dynamic Programming 
 https://leetcode.com/discuss/general-discussion/662866/dp-for-beginners-problems-patterns-sample-solutions
-common  Dp patterns https://docs.google.com/spreadsheets/d/10CB6smBZE0v_Ye7AgGhRbnhfD4cZLS1kP5MbX-gA7Sw/edit#gid=0
+common  
+Dp patterns https://docs.google.com/spreadsheets/d/10CB6smBZE0v_Ye7AgGhRbnhfD4cZLS1kP5MbX-gA7Sw/edit#gid=0
 https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns/439810
+
+https://leetcode.com/discuss/study-guide/1050391/Must-do-Dynamic-programming-Problems-Category-wise
+https://leetcode.com/discuss/study-guide/662866/DP-for-Beginners-Problems-or-Patterns-or-Sample-Solutions
+
 
 9. Greedy 
 https://leetcode.com/discuss/general-discussion/669996/greedy-for-beginners-problems-sample-solutions
@@ -84,6 +91,9 @@ https://leetcode.com/discuss/general-discussion/665604/important-and-useful-link
 
 Amazon Leadership Principles
 https://leetcode.com/discuss/study-guide/1149636/Amazon-LPs-Compiled
+
+Interview Preparation Guide
+https://leetcode.com/discuss/study-guide/698684/Interview-Preparation-for-Beginners-DS-or-Algorithms-or-OS-or-System-Design
 
 #### Day 5 
 1. []()
