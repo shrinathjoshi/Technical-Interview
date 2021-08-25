@@ -96,14 +96,15 @@ Interview Preparation Guide
 https://leetcode.com/discuss/study-guide/698684/Interview-Preparation-for-Beginners-DS-or-Algorithms-or-OS-or-System-Design
 Google Interview Preparation Guide :- https://leetcode.com/discuss/career/449744/Google-Interview-Tips-%2B-FAQs-Answered-%2B-Resources
 
-###Microservices
+### Microservices
 https://medium.com/platform-engineer/microservices-design-guide-eca0b799a7e8
 
 
-##System Design
+## System Design
 https://leetcode.com/discuss/career/229177/My-System-Design-Template
 https://leetcode.com/discuss/interview-question/system-design/1205825/FANG-System-Design-Interview-Preparation-Master-Doc
 https://drive.google.com/file/d/16wtG6ZsThlu_YkloeyX8pp2OEjVebure/view?usp=sharing
+https://github.com/binhnguyennus/awesome-scalability
 
 #### Day 5 
 1. []()
