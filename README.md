@@ -106,6 +106,17 @@ https://leetcode.com/discuss/interview-question/system-design/1205825/FANG-Syste
 https://drive.google.com/file/d/16wtG6ZsThlu_YkloeyX8pp2OEjVebure/view?usp=sharing
 https://github.com/binhnguyennus/awesome-scalability
 
+#### Day 1
+
+#### Day 2
+1. [4 Sum](https://leetcode.com/problems/4sum/)
+2. [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)
+3. [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
+4. [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
+5. [ K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/)
+6. [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
+
+
 #### Day 5 
 1. []()
 2. [Trapping Rain Water]()
