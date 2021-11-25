@@ -1,0 +1,172 @@
+/*
+
+Reverse a string without affecting special characters?
+Primary Example ->
+Input:   str = "a,b$c"
+Output:  str = "c,b$a"
+Non-special characters: a-zA-Z0-9
+Secondary Example ->
+Input:   str = "A4b,c,d0e!$" "A0b,c,d4e!$"
+Output:  str = "e0d,c,b4A!$" 
+*/
+
+import java.util.regex.*; 
+public class MyClass {
+    public static void main(String args[]) {
+        final String s1= "a,b$c";
+        final String s2= "A4b,c,d0e!$";
+        
+        System.out.println(reverseNonSpecialCharacter(s1));
+        System.out.println(reverseNonSpecialCharacter(s2));
+    }
+    
+    public static String reverseNonSpecialCharacter(final String str){
+        
+        char strArray[] = str.toCharArray();
+        String pattern = "^[a-zA-Z0-9]*$";
+        Pattern p = Pattern.compile(pattern);
+        int left = 0;
+        int right = str.length()-1;
+        
+        while(left<right){
+            while(left <str.length()-1 && !p.matcher(""+strArray[left++]).matches());
+            
+            while(right >0 && !p.matcher(""+strArray[right--]).matches());
+            
+            char temp = strArray[left];
+            strArray[left] = strArray[right];
+            strArray[right]= temp;
+            
+            left++;
+            right--;
+            
+        }
+        
+        return new String(strArray);
+    }
+}
+
+
+
+----------------------
+
+
+/*
+Write a method/function which provides nth number in Fibonacci series? 
+Fib(0) = 0, Fib(1)=1, Fib(2)=1, Fib(3)=2, Fib(4)=3, Fib(5)=5, Fib(6)=8 and so on...
+E.g. Fibonacci series Fib(5) = Fib(4) + Fib(3) = 3 + 2 = 5
+
+*/
+
+import java.util.regex.*; 
+public class MyClass {
+    public static void main(String args[]) {
+        int N = 5;
+        System.out.println(getFibbo(N));
+    }
+    
+    public static int getFibbo(int N){
+        int fibbo[] = new int[N+1];
+        fibbo[0]=0;
+        fibbo[1]=1;
+        fibbo[2]=1;
+        
+        for(int i=3;i<=N;i++){
+            fibbo[i]=fibbo[i-1]+fibbo[i-2];
+        }
+        
+        return fibbo[N];
+        
+    }
+}
+
+------------------------
+
+/*
+input.add("+91-9876543210");
+input.add("9876 543 210");
+input.add("02269876543");
+input.add("09876543210");
+input.add("9876");
+input.add("#108");
+input.add("78654332");
+input.add("56786 54332");
+input.add("08765432190");
+input.add("+91-7654321890");
+input.add("0145243567");
+input.add("9876543201");
+input.add("+91-6789123450");
+input.add("02298765432");
+input.add("81234-56789");
+input.add("919876543012");
+input.add("+91-98765 43102");
+
+*/
+
+import java.util.*; 
+public class MyClass {
+    public static void main(String args[]) {
+        List<String> input =  new ArrayList<>();
+        input.add("+91-9876543210");
+        input.add("9876 543 210");
+        input.add("02269876543");
+        input.add("09876543210");
+        input.add("9876");
+        input.add("#108");
+        input.add("78654332");
+        input.add("56786 54332");
+        input.add("08765432190");
+        input.add("+91-7654321890");
+        input.add("0145243567");
+        input.add("9876543201");
+        input.add("+91-6789123450");
+        input.add("02298765432");
+        input.add("81234-56789");
+        input.add("919876543012");
+        input.add("+91-98765 43102");
+
+        List<String> results = getFilteredList(input);
+        for(String result :results)
+            System.out.println(result);
+    }
+    
+    public static List<String> getFilteredList(List<String> input){
+        
+        Iterator<String> iterator = input.iterator();
+        while(iterator.hasNext()){
+            final String phone = iterator.next();
+            final String processNumber = processInput(phone);
+        
+            int phoneNumberLength = processNumber.length();
+            
+            if(phoneNumberLength<10){
+                iterator.remove();
+                continue;
+            }
+            boolean isValid = false;
+            if(phoneNumberLength == 11 && phone.charAt(0)=='0'){
+                isValid=true;
+            }
+            else if(phoneNumberLength == 12 && phone.substring(0,2).equals("91")){
+                isValid=true;
+            }else if(phoneNumberLength==10){
+                isValid=true;
+            }
+            
+            if(!isValid){
+                iterator.remove();
+            }
+            
+        }
+        
+        return input;
+    }
+    
+    public static String processInput(String phone){
+        phone = phone.replaceAll("\\s+","");
+        phone = phone.replaceAll("-","");
+        phone = phone.replaceAll("+","");
+        return phone;
+    }
+    
+}
