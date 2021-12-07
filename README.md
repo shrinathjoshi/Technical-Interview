@@ -141,4 +141,8 @@ https://github.com/binhnguyennus/awesome-scalability
 ####  Day 15
 1. [Candy Crush 1D](https://leetcode.com/discuss/interview-question/380650/bloomberg-phone-screen-candy-crush)
 
-####  Day 39
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+Striver's SDE Sheet
+
+#### Day 1
+1. Set Matrix Zeroes
